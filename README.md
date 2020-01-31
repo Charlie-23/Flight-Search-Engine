@@ -1,9 +1,4 @@
 
-Flight Search Web app to search flights. It uses a dummy JSON data. 
-Concepts such as filtering sorting and Basic CSS should be learned from this example.
-
-Demo: https://ishantl.github.io/React-Web-App-Flight-Search-App/
-
 ## How to use
 
 - clone the project
